@@ -1,0 +1,34 @@
+{
+    "100057140344119": {
+        "userID": "100057140344119",
+        "name": "Adrian",
+        "vanity": "adrian.rillon01",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1706500005115
+        },
+        "data": {
+            "timestamp": 1706500005115
+        },
+        "lastUpdate": 1706500005115
+    },
+    "61555297617879": {
+        "userID": "61555297617879",
+        "name": "Jerome Arabo",
+        "vanity": "61555297617879",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 5,
+        "createTime": {
+            "timestamp": 1706500406770
+        },
+        "data": {
+            "timestamp": 1706500406770
+        },
+        "lastUpdate": 1706500406770
+    }
+}
